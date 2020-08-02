@@ -14,4 +14,4 @@ def inputInt(message):
 
 # CONSUME A FUNCTION
 draw_square(inputInt("Size 1st sq: "))
-draw_square(inputInt("Size 2st sq: "))
+draw_square(inputInt("Size 2nd sq: "))
